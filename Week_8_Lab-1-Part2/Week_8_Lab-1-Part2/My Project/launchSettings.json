@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Profile 1": {
+      "commandName": "Executable",
+      "executablePath": "C:\\Users\\Lenovo\\source\\repos\\Week_8_Lab-1-Part2\\Week_8_Lab-1-Part2.sln"
+    }
+  }
+}
